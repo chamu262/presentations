@@ -8,12 +8,12 @@ Classic prompt talks teach phrases: give the model a persona, a recipe, a few ex
 
 | # | Practice | Demo |
 |---|---|---|
-| 1 | Context beats clever prompts: instructions files, skills and memory | [godfather](https://github.com/chamu262/godfather) |
+| 1 | Context beats clever prompts: instructions files, skills and memory | [godfather](https://github.com/chamu262/claude-godfather) |
 | 2 | Give it tools, read-only first | [poc.mcp-it-tools](https://github.com/chamu262/poc.mcp-it-tools) |
 | 3 | Agents propose, people approve | [agentic-os-demo](https://github.com/chamu262/agentic-os-demo) |
 | 4 | Rules decide, AI explains | [sample-agentic-access-review](https://github.com/chamu262/sample-agentic-access-review) |
 | 5 | From one agent to a team | [nova-os-demo](https://github.com/chamu262/nova-os-demo) |
-| 6 | Check the work, not the claim | [godfather](https://github.com/chamu262/godfather) |
+| 6 | Check the work, not the claim | [godfather](https://github.com/chamu262/claude-godfather) |
 
 ## Files
 
